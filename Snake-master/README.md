@@ -1,10 +1,7 @@
 # SnakeNEAT
 AI learns to play Snake with NEAT in Python
 
-The game is made with this tutorial <a href ="https://www.youtube.com/watch?v=5tvER0MT14s&t=102s">video</a>.
-
-# Youtube video
-I made a <a href ="https://youtu.be/ium0AketzD0">video</a> showing of the project.
+The game is made with this tutorial <a href ="[https://www.youtube.com/watch?v=5tvER0MT14s&t=102s](https://youtu.be/xOhuyWLYAJs)">video</a>.
 
 # Usefull links
 <a href ="https://neat-python.readthedocs.io/en/latest/neat_overview.html#neat-overview-label
