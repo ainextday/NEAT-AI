@@ -1,7 +1,7 @@
 # goingUpNEAT
 AI learns to play "Doodle Jump" inspired game with the NEAT algorithm.   
 
-NEAT part is based NEAT-Python library example and this <a href ="https://www.youtube.com/watch?v=MMxFDaIOHsE">video</a>.
+NEAT part is based NEAT-Python library example and this <a href ="https://youtu.be/xOhuyWLYAJs">video</a>.
 
 # Usefull links
 <a href ="https://neat-python.readthedocs.io/en/latest/neat_overview.html#neat-overview-label
